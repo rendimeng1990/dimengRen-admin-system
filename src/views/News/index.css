@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+    /* background-color: yellow; */
+}
+
+.fatherbox {
+    background-image: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%);
+}
+
+/* top */
+.topbox {
+    width: 100%;
+    height: 770px;
+    padding-top: 10px;
+    background: url(../../../public/img/bgcp.jpeg);
+    background-color: 245, 245, 247
+}
+
+.main {
+    margin-top: 100px;
+    height: 610px;
+    background-color: white;
+    text-align: center;
+    background: rgba(0, 0, 0, .1);
+
+}
+
+.headline {
+    color: white;
+    font-size: 30px;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    float: left;
+}
+
+.searchbox {
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+}
+
+
+
+.inputbox {
+    float: right;
+    border-radius: 5px;
+    right: 30px;
+    top: 30px;
+
+
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+
+.swiper-slide {
+    margin: 0 auto;
+    width: 600px;
+    height: 550px;
+}
+
+/* shortcut */
+.shortcut {
+    position: fixed;
+    top: 10;
+    height: 60px;
+    width: 100%;
+    background-color: rgba(255, 253, 253, 0.609);
+    line-height: 60px;
+    z-index: 9999;
+
+}
+
+.login {
+    font-size: 20px;
+    padding: auto;
+
+
+}
+
+.fc {
+    position: fixed;
+    margin-left: 150px;
+    width: 200px;
+    top: 10px;
+    margin-left: 660px;
+    font-size: 20;
+}
+
+.fl {
+    position: fixed;
+    margin-left: 100px;
+    font-size: 16px;
+    margin-right: 200px;
+
+}
+
+.fr {
+    position: fixed;
+    right: 100px;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+/* category */
+
+
+/* footer */
+.footer {
+    height: 400px;
+    background-color: pink;
+    padding-top: 60px;
+}
+
+.service {
+    height: 270px;
+    border-bottom: 1px solid #ccc;
+    padding: 0 200px;
+}
+
+.service dl dt {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.service dl {
+    box-sizing: border-box;
+    float: left;
+    font-size: 16px;
+    width: 200px;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    padding: auto;
+}
+
+.copyright span {
+    padding: 10px;
+}
+
+/* nav */
+.nav {
+    position: relative;
+    height: 750px;
+
+}
+
+.editor {
+    height: 500px;
+    font-size: 30px;
+}
+
+.category {
+    height: 110px;
+}
+
+.category ul {
+    position: absolute;
+    top: 100;
+    left: 50%;
+    margin-left: -550px;
+    margin-top: -70px;
+    margin-bottom: 20px;
+}
+
+
+
+.category ul li {
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+    transition: height 0.2s;
+
+}
+
+.category ul li:hover {
+
+    height: 170px;
+    /* margin-bottom: 50px; */
+
+}
+
+.category ul li:nth-child(1) {
+    background: url(../../../public/img/national.jpeg);
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.category ul li:nth-child(2) {
+    background: url(../../../public/img/business.jpeg);
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.category ul li:nth-child(3) {
+    background: url(../../../public/img/enter.jpeg);
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.category ul li:nth-child(4) {
+    background: url(../../../public/img/tech.jpeg);
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.category ul li:nth-child(5) {
+    background: url(../../../public/img/sports.jpeg);
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
