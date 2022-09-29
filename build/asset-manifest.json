@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6842bdcd.css",
+    "main.js": "/static/js/main.0e7c3955.js",
+    "static/media/coffee.jpg": "/static/media/coffee.4d4cfa4b307ffe8d560f.jpg",
+    "static/media/lili.jpg": "/static/media/lili.eac3dd9ad735ecf7afd9.jpg",
+    "static/media/dimeng.png": "/static/media/dimeng.2dfd9b9d8129441e7276.png",
+    "static/media/war.jpeg": "/static/media/war.2770e2740654864ee28c.jpeg",
+    "static/media/bgcp.jpeg": "/static/media/bgcp.795bcb9f28d7be83f974.jpeg",
+    "static/media/NZ.jpeg": "/static/media/NZ.e7965ae78288dd909517.jpeg",
+    "static/media/national.jpeg": "/static/media/national.89a33f45d72a1d49c958.jpeg",
+    "static/media/business.jpeg": "/static/media/business.09112671fdfce5956706.jpeg",
+    "static/media/tech.jpeg": "/static/media/tech.67ac3f62fb21cb450c56.jpeg",
+    "static/media/sports.jpeg": "/static/media/sports.de194e7ed8dae7078a73.jpeg",
+    "static/media/enter.jpeg": "/static/media/enter.ff3fd28783a272a5e8d6.jpeg",
+    "static/media/Queen.jpeg": "/static/media/Queen.ffad9104b3a92e0ec692.jpeg",
+    "static/media/team.webp": "/static/media/team.cee0b588cc0ab56109f0.webp",
+    "index.html": "/index.html",
+    "main.6842bdcd.css.map": "/static/css/main.6842bdcd.css.map",
+    "main.0e7c3955.js.map": "/static/js/main.0e7c3955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6842bdcd.css",
+    "static/js/main.0e7c3955.js"
+  ]
+}
